@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majidy_Cyrus_Breakout_3", "Majidy_Cyrus_Breakout_3.csproj", "{10CC7B62-1844-C847-4941-462C827EE32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majidy_Cyrus_Breakout_3.Editor", "Majidy_Cyrus_Breakout_3.Editor.csproj", "{3C8D3FEC-EC1F-1852-3FC8-F378D7120A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CC7B62-1844-C847-4941-462C827EE32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CC7B62-1844-C847-4941-462C827EE32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CC7B62-1844-C847-4941-462C827EE32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CC7B62-1844-C847-4941-462C827EE32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8D3FEC-EC1F-1852-3FC8-F378D7120A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8D3FEC-EC1F-1852-3FC8-F378D7120A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8D3FEC-EC1F-1852-3FC8-F378D7120A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8D3FEC-EC1F-1852-3FC8-F378D7120A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
