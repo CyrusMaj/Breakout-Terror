@@ -1,0 +1,2 @@
+# Breakout-Terror
+The aim of this project was to create a new rendition of the classic game Block Breaker, in Unity 3D using C#, and add a lot of juice. Juice is basically visual polish that makes a game experience more enjoyable, basically to look and feel good. This can be achieved through choice of color, visual effects such as particle effects and trails, and programatic effects such as screen shake. DoTween was used for the programmatic animations, such as screen-shake.
